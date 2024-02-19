@@ -2,7 +2,7 @@
  * The "calc" class performs basic arithmetic operations and calculates the area of a triangle and
  * rectangle.
  */
-class calculator{
+class calculator extends math{
     public static void main(String[] args)
     {
         calculator cal = new  calculator();
