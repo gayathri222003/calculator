@@ -3,7 +3,7 @@ public class extendArthmetic extends cal {
         System.out.println("Squre of a number is =" +b*b);
     }
     void cube(int b){
-        System.out.println("Squre of a number is =" +b*b*b);
+        System.out.println("Cube of a number is =" +b*b*b);
     }
 }
 
